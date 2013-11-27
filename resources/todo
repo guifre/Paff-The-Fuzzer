@@ -5,7 +5,11 @@ sinks
 	todo
 		strncat
 		strncpy
+		vsprintf
 		sprinf
+		gets
+		getcwd
+		scanf
 
 
 
@@ -20,4 +24,8 @@ sources
 		fscanf
 		scanf
 		sscanf
+		gets
+		getcwd
+		fgets
+		fdopen
 		getline
