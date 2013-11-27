@@ -1,0 +1,23 @@
+sinks
+	done
+		strcat
+		strcpy
+	todo
+		strncat
+		strncpy
+		sprinf
+
+
+
+sources
+	done
+		
+	todo
+		accept
+		recv
+		recvfrom
+		fopen
+		fscanf
+		scanf
+		sscanf
+		getline
